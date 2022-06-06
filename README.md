@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Lee%20Taehyun&fontSize=50&animation=fadeIn&fontColor=auto)
 <div align="center">
-    <h2>📧 Email 📧</h2>
-    <p>Taehyun5820@gmail.com</p>
+    <p>📧 Email : Taehyun5820@gmail.com 📧</p>
 </div>
 <div align="center"><h2>🛠Tech Stack🛠</h2></div>
 <div align="center">
